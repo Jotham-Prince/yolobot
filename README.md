@@ -69,7 +69,4 @@ Ensure you have the necessary custom environment models inside /home/.gazebo/mod
 Contributing
 We welcome contributions to improve this project. If you find any issues or have ideas for enhancements, feel free to open a pull request.
 
-License
-This project is licensed under the MIT License.
-
 Thank you for using yolobot! If you have any questions or need further assistance, please don't hesitate to contact us. Happy robot experimenting!
